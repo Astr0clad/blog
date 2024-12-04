@@ -5,8 +5,6 @@ date: 2024-12-02 09:00:00 -0700
 tags: advent-of-code-2024
 ---
 
-# Day 2:  Red-Nosed Reports
-
 ### [See the Problem](https://adventofcode.com/2024/day/2)
 
 ## Part 1

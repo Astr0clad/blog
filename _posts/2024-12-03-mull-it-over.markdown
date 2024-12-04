@@ -5,8 +5,6 @@ date: 2024-12-03 09:00:00 -0700
 tags: advent-of-code-2024
 ---
 
-# Day 3:  Mull It Over
-
 ### [See the Problem](https://adventofcode.com/2024/day/3)
 
 ## Part 1

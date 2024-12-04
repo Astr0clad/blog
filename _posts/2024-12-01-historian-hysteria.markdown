@@ -5,8 +5,6 @@ date: 2024-12-01 12:00:00 -0700
 tags: advent-of-code-2024
 ---
 
-# Day 1:  Historian Hysteria
-
 ### [See the Problem](https://adventofcode.com/2024/day/1)
 
 ## Part 1
